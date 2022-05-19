@@ -1,5 +1,3 @@
-This repo introduces round cropping functionality.
-
 # Image cropper for Angular
 ![example](https://github.com/Mawi137/ngx-image-cropper/raw/master/cropper-example.png)
 
